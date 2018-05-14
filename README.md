@@ -2,7 +2,6 @@ Audio Style Transfer with Pretrained Convolutional Neural Network
 ==============
 
 ## Introduction
---------------
 
 This repository contains a Tensorflow-based implementation of style transfer proposed in "A Neural Algorithm of Artistic Style" by L. Gatys at el. not on images but on audio. The original paper can be found [here](https://arxiv.org/abs/1508.06576).
 
