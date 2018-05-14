@@ -27,7 +27,7 @@ For now, we have chosen to use two combinations of layers for content and style 
 
 Also, we have tried to swap the content weights and style weights to see how the results differ when the total loss function is biased toward different kinds of losses.
 
-Content: 5th conv + Style: 1st conv, Content Weight: 1.5, Style Weight: 10
+`Content: 5th conv + Style: 1st conv, Content Weight: 1.5, Style Weight: 10`
 
 <img src="https://media.giphy.com/media/AS7E607TOu1YpqHatH/giphy.gif" width="400" height="300"/>
 
