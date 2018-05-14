@@ -15,3 +15,10 @@ Style transfer is aimed to transfer and recompose the style of one image to the 
 In the original paper, the authors use VGG as their pre-trained model, but in our implementation we use VGGish, proposed by Hershey at el.. The main reason is that VGG is trained to classify images of objects, while VGGish is used to classify sounds, which more closely matches our need.
 
 The model can be found [here](https://github.com/tensorflow/models/tree/master/research/audioset).
+
+## Requirements
+- Python 3
+- Numpy
+- Scipy
+- Tensorflow
+- resampy
