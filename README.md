@@ -16,6 +16,10 @@ In the original paper, the authors use VGG as their pre-trained model, but in ou
 
 The model can be found [here](https://github.com/tensorflow/models/tree/master/research/audioset).
 
+## Transfer Result
+
+<img src="https://media.giphy.com/media/AS7E607TOu1YpqHatH/giphy.gif" width="40" height="40"/>
+
 ## Requirements
 - Python 3
 - Numpy
