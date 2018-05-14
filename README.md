@@ -18,7 +18,7 @@ The model can be found [here](https://github.com/tensorflow/models/tree/master/r
 
 ## Transfer Result
 
-<img src="https://media.giphy.com/media/AS7E607TOu1YpqHatH/giphy.gif" width="400" height="400"/>
+<img src="https://media.giphy.com/media/AS7E607TOu1YpqHatH/giphy.gif" width="800" height="600"/>
 
 ## Requirements
 - Python 3
